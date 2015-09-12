@@ -1,0 +1,7 @@
+development:
+  NameReg3:
+    args:
+staging:
+  SimpleStorage:
+    args:
+      - 100
